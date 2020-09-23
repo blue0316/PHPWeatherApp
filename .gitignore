@@ -1,0 +1,8 @@
+#Enviroment
+.env
+.idea
+#Composer
+composer.json
+composer.lock
+#Vendor
+vendor/*
