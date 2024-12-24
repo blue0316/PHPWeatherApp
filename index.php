@@ -1,10 +1,8 @@
 <?php
 require 'vendor/autoload.php';
 
-$dotenv = new Dotenv\Dotenv(__DIR__);
-$dotenv->load();
 
-$apiKey = getenv('API_KEY');
+$apiKey = '88bf525f1f950b1d75c0da52a29d9cf6';
 
 $weather = '';
 $error = '';
